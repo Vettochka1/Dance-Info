@@ -1,0 +1,53 @@
+body {
+	background-color:white;
+	font-family:Ubuntu;
+}
+header, footer {
+	background-color:#ffcdcd;
+}
+header {
+	height:40px;
+}
+main {
+	background-color:#fff0f0;
+}
+a {
+	text-decoration:none;
+	color:black;
+	font-family:sans serif;
+}
+h1 {
+	text-align:center;
+}
+div {
+	background-color:Seashell;
+}
+table {
+	border: 1px solid black;
+	border-collapse: collapse;
+	font-size: 20px;
+	background-color:#FFBCD9;
+	text-align:center;
+}
+th,td  {
+	border: 1px solid black;
+}
+input {
+	width:243px;
+	height:40px;
+}
+textarea,input {
+	background-color:lightpink;
+	border-radius:20px;
+}
+footer img {
+	height:50px;
+	width:50px;
+}
+button {
+	background-color:lightpink;
+	height:30px;
+	width:100px;
+	border-radius:20px;
+	border:none;
+}
